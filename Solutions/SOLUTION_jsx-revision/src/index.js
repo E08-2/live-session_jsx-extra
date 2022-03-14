@@ -75,15 +75,6 @@ const allElements = (
     // </React.Fragment>
 );
 
-/* 
-
-<table>
-  <tr>
-  <tr>
-</table>
-
-*/
-
 // ===============================================================================================
 
 // 6A. Use ReactDOM to render your JSX content in the DOM
